@@ -11,9 +11,12 @@ namespace AspNetInicializar.TagHelpers
         public string Texto { get; set; }
         public override void Process(TagHelperContext context, TagHelperOutput output)
         {
-            output.TagName = "div";
-            output.Attributes.SetAttribute("class", "alert alert-success");
-            output.Content.SetContent(Texto);
+            if (!string.IsNullOrEmpty(Texto))
+            {
+                output.TagName = "div";
+                output.Attributes.SetAttribute("class", "alert alert-success");
+                output.Content.SetContent(Texto);
+            }
         }
     }
 }

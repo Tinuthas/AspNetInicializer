@@ -1,4 +1,4 @@
-﻿@model AspNetInicializar.Models.Zoo
+﻿@model Zoo
 @{
     ViewData["Title"] = "Cadastrar";
 }
@@ -25,5 +25,26 @@
         </select>
     </div>
     <input type="submit" value="Cadastrar" class="btn btn-dark" />
+    <botao></botao>
+
 </form>
+
+@section MenuLateral {
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a href="#" class="navbar-brand">FIAP</a>
+        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav">
+                <a href="Cadastrar" class="nav-item nav-link">Cadastrar</a>
+                <a href="Listar" class="nav-item nav-link">Listar</a>
+            </div>
+            <div class="navbar-nav ml-auto">
+                <a href="#" class="nav-item nav-link">Login</a>
+            </div>
+        </div>
+    </nav>
+}
 

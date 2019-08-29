@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\AspNetInicializar\\AspNetInicializar\\AspNetInicializar.csproj": {}
+    "D:\\AspNetInicializer\\AspNetInicializar\\AspNetInicializar.csproj": {}
   },
   "projects": {
-    "D:\\AspNetInicializar\\AspNetInicializar\\AspNetInicializar.csproj": {
+    "D:\\AspNetInicializer\\AspNetInicializar\\AspNetInicializar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\AspNetInicializar\\AspNetInicializar\\AspNetInicializar.csproj",
+        "projectUniqueName": "D:\\AspNetInicializer\\AspNetInicializar\\AspNetInicializar.csproj",
         "projectName": "AspNetInicializar",
-        "projectPath": "D:\\AspNetInicializar\\AspNetInicializar\\AspNetInicializar.csproj",
+        "projectPath": "D:\\AspNetInicializer\\AspNetInicializar\\AspNetInicializar.csproj",
         "packagesPath": "C:\\Users\\logonrmlocal\\.nuget\\packages\\",
-        "outputPath": "D:\\AspNetInicializar\\AspNetInicializar\\obj\\",
+        "outputPath": "D:\\AspNetInicializer\\AspNetInicializar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
