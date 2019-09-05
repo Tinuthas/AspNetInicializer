@@ -1,0 +1,13 @@
+﻿@model Zoo
+@{
+    ViewData["Title"] = "Atualizar";
+}
+
+<h1>Atualizando</h1>
+
+<form asp-action="atualizar">
+    <input asp-for="ZooId"/>
+    <partial name="_formulario" />
+    <botao texto="atualizar"></botao>
+
+</form>

@@ -62,3 +62,5 @@ D:\AspNetInicializer\AspNetInicializar\obj\Debug\netcoreapp2.2\AspNetInicializar
 D:\AspNetInicializer\AspNetInicializar\obj\Debug\netcoreapp2.2\AspNetInicializar.dll
 D:\AspNetInicializer\AspNetInicializar\obj\Debug\netcoreapp2.2\AspNetInicializar.pdb
 D:\AspNetInicializer\AspNetInicializar\obj\Debug\netcoreapp2.2\AspNetInicializar.csproj.CopyComplete
+D:\AspNetInicializer\AspNetInicializar\obj\Debug\netcoreapp2.2\Razor\Views\Zoo\_formulario.g.cshtml.cs
+D:\AspNetInicializer\AspNetInicializar\obj\Debug\netcoreapp2.2\Razor\Views\Zoo\Atualizar.g.cshtml.cs
